@@ -1,0 +1,19 @@
+ .logo{
+    
+height: 28px;
+width: 122px;
+left: 320px;
+top: 28px;
+border-radius: 0px;
+position: absolute;
+left: 16.67%;
+top:0.42%;
+bottom: 99.15%;
+}
+.ul{
+    width: 49px;
+    height:24px;
+    font-style: normal;
+    font-weight: 600;
+    font-size:16px ;
+}
